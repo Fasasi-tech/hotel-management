@@ -1,0 +1,16 @@
+.about_div{
+    margin-top: 20rem;
+}
+.font{
+    color:green;
+}
+.container_about{
+    max-width: 90%;
+    margin:0 auto;
+    margin-top:4rem;
+}
+.container_features{
+    max-width: 90%;
+    margin:0 auto;
+    margin-top:4rem;
+}

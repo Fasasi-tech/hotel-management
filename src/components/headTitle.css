@@ -1,0 +1,11 @@
+.image-heading {
+    background-image: url("../../public/Images/image-heading.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 20vh;
+    line-height: 20vh;
+    position: relative;
+    margin-top:2rem;
+  }
+  
